@@ -1,0 +1,1 @@
+## 用于 Nuxt Content生成CMS是文件目录
