@@ -21,13 +21,5 @@ export default defineNuxtConfig({
       }
     }
   },
-  modules: [
-    // '@nuxt/devtools',
-    // '@nuxt/content',
-    // '@nuxt/eslint',
-    // '@nuxt/image',
-    // '@nuxt/scripts',
-    // '@nuxt/test-utils',
-    // '@nuxt/ui'
-  ]
+  modules: ['@nuxtjs/tailwindcss']
 })
